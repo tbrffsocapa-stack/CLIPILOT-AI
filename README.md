@@ -1,0 +1,2 @@
+# CLIPILOT-AI
+AI project for CLIPILOT
